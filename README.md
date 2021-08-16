@@ -55,16 +55,16 @@ Even though it's not perfect, I'm proud of what I made and appreciate the challa
 
 I hope you'll be surprised,\
 Bar
+\
+\
+\
+\
+\
 
 
 
 
 
 
-
-
-
-
-
-##### last one
-my surprise is in the 'abouts'
+##### last one!
+- my dad joke of a surprise is in the 'abouts'

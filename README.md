@@ -42,8 +42,8 @@ The folder structure of this app is explained below:
 | package.json                | Contains npm dependencies                                                                     |
 
 #### A little personal note:
-This project was my firs time (ever) using JS and NodeJS. A week ago i had no clue of these two and look at me now.\
-Even though it's not perfect, I'm proud of what I made and appreciate the challange and the opportunity you guys gave me.\
+This project was my first time (ever) using JS and NodeJS. A week ago I zero knowledge of these two and look at me now.\
+Even though it's not perfect, I'm proud of what I made and appreciate the challange and the opportunity you guys gave me.
 
 I hope you'll be surprised,\
 Bar

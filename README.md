@@ -8,6 +8,10 @@ As requested, surprises are made and you will get different kinds of responses w
 ## Getting started
 # Pre-requisites
 - Install [Node.js](https://nodejs.org/en/) in it's latest version.
+- To kickstart the server: run:
+```
+node src/app.js
+```
 
 - Install dependencies
 ```
@@ -15,6 +19,7 @@ npm install
 npm i express
 npm i hbs
 npm i postman-request
+npm i chalk
 ```
 - navigate to http://localhost:3000/ and start.
 ## JSON we get
@@ -47,3 +52,16 @@ Even though it's not perfect, I'm proud of what I made and appreciate the challa
 
 I hope you'll be surprised,\
 Bar
+
+
+
+
+
+
+
+
+
+
+
+##### last one
+my surprise is in the 'abouts'

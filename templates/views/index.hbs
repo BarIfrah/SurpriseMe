@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Surprise Me!</title>
+    <link rel="icon" href="anonymousibex">
+    <link rel="stylesheet" href="/css/styles.css">
+
+    </script>
+</head>
+
+<body>
+    <div class="main-content">
+        {{>header}}
+        <p>This is where you'll get surprised!</p>
+
+        <form id="f1">
+            <input id="yob-input" placeholder="Enter your year of birth" required>
+            <input id="name-input" placeholder="Enter your name" required>
+            <button id="surprise">Surprise Me</button>
+            
+        </form>
+        
+
+        <p id="message-1"></p>
+        <p id="message-2"></p>
+    </div>
+
+     {{>footer}}
+
+     <script src="js/app.js"></script>
+</body>
+
+</html>

@@ -121,7 +121,7 @@ app.get('/namesum', (req, res) => {
             res.send({
                 code: 200,
                 type: 'name-sum',
-                value: sumName(req.query.name)
+                value: "Name sum: " + sumName(req.query.name)
             })
         }
     }

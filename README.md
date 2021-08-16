@@ -19,7 +19,7 @@ npm i postman-request
 npm i chalk
 ```
 
-- To kickstart the server: run:
+- To kickstart the server, run:
 ```
 node src/app.js
 ```

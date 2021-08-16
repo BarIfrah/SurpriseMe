@@ -22,9 +22,9 @@ There's no data logging currently.
 The data sent from the app is  a JSON:
 ```json
 {
- code: "200 for success, 400 for failure."
- type: "either sum/chuck/kanye"
- value: "the data return from the API"
+ "code": "200 for success, 400 for failure.",
+ "type": "either sum/chuck/kanye",
+ "value": "the data return from the API"
 }
 ```
 ## Project Structure

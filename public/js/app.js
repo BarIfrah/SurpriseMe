@@ -25,7 +25,6 @@ surprisemeForm.addEventListener('submit', (event) => {
     fetch('http://localhost:3000/surpriseme?yob=' + yearOfBirth + '&name=' + name).then((response) => {
 
         response.json().then((data) => {
-            console.log(data)
             if (data.error) {
                 messageOne.textContent = data.error
             } else {
@@ -46,7 +45,6 @@ nameSum.addEventListener('submit', (e) => {
     fetch('http://localhost:3000/namesum?yob=' + yearOfBirth + '&name=' + name).then((response) => {
 
         response.json().then((data) => {
-            console.log(data)
             if (data.error) {
                 messageTwo.textContent = data.error
             } else {

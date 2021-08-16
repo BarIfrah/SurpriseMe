@@ -16,7 +16,7 @@ npm i express
 npm i hbs
 npm i postman-request
 ```
--navigate to http://localhost:3000/ and start.
+- navigate to http://localhost:3000/ and start.
 ## JSON we get
 There's no data logging currently.
 The data sent from the app is  a JSON:

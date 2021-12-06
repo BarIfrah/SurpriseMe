@@ -3,7 +3,7 @@
 ## About
 In this project, the goal was to build an API that fetches data from Chuck's and Kanye's API's,\
 and it had some surprising conditions on the data display.\
-As requested, surprises are made and you will get different kinds of responses with different kind of data.\
+As requested, surprises are made and you will get different kinds of responses with different kind of data.
 
 ## Getting started
 # Pre-requisites
